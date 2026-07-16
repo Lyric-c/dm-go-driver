@@ -8,7 +8,7 @@ import (
 	"bytes"
 	"context"
 	"crypto/tls"
-	"dm/security"
+	"github.com/Lyric-c/dm-go-driver/security"
 	"fmt"
 	"net"
 	"strconv"

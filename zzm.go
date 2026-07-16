@@ -7,7 +7,7 @@ package dm
 
 import (
 	"bufio"
-	"dm/util"
+	"github.com/Lyric-c/dm-go-driver/util"
 	"io"
 	"os"
 	"runtime"

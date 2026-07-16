@@ -7,7 +7,7 @@ package dm
 
 import (
 	"bytes"
-	"dm/i18n"
+	"github.com/Lyric-c/dm-go-driver/i18n"
 	"fmt"
 	"runtime"
 )

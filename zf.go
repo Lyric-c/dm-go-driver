@@ -8,7 +8,7 @@ package dm
 import (
 	"context"
 	"database/sql/driver"
-	"dm/util"
+	"github.com/Lyric-c/dm-go-driver/util"
 	"io"
 	"reflect"
 	"time"

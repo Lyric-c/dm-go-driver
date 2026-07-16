@@ -6,7 +6,7 @@ package dm
 
 import (
 	"bytes"
-	"dm/util"
+	"github.com/Lyric-c/dm-go-driver/util"
 	"io"
 	"math/big"
 	"strconv"

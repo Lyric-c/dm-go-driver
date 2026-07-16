@@ -6,8 +6,8 @@ package dm
 
 import (
 	"bytes"
-	"dm/parser"
-	"dm/util"
+	"github.com/Lyric-c/dm-go-driver/parser"
+	"github.com/Lyric-c/dm-go-driver/util"
 	"strconv"
 	"strings"
 )

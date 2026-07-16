@@ -8,7 +8,7 @@ import (
 	"context"
 	"database/sql"
 	"database/sql/driver"
-	"dm/util"
+	"github.com/Lyric-c/dm-go-driver/util"
 	"errors"
 	"io"
 	"regexp"

@@ -9,7 +9,7 @@ import (
 	"context"
 	"database/sql"
 	"database/sql/driver"
-	"dm/util"
+	"github.com/Lyric-c/dm-go-driver/util"
 	"fmt"
 	"io"
 	"math/big"
