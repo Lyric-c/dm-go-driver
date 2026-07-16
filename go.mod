@@ -1,4 +1,4 @@
-module dm
+module github.com/Lyric-c/dm-go-driver
 
 go 1.17
 
