@@ -1,6 +1,6 @@
 module github.com/Lyric-c/dm-go-driver
 
-go 1.22
+go 1.23
 
 require (
 	github.com/golang/snappy v0.0.1
