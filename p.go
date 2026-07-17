@@ -14,7 +14,7 @@ import (
 )
 
 // 发版标记
-var version = "0.0.20260710"
+var version = "0.0.20260711"
 var build_date = "2026.07.02"
 var svn = "50934"
 
